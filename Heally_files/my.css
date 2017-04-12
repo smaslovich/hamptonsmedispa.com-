@@ -1,0 +1,95 @@
+.wrap-block{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.condition .ckeditor h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.condition .navy-line{
+    margin-top: 40px;
+}
+.review{background: #f4f4f4;padding-bottom: 30px;margin-bottom: 20px;}
+.review .ckeditor{
+    margin-bottom: 10px;
+    border-left: 3px solid #38a855;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-shadow: 5px 6px 0 rgb(234, 234, 234);
+    background: rgb(249, 249, 249);
+    padding: 20px 30px 40px 30px;
+    position: relative;
+    border-radius: 5px;
+}
+.review .text{
+    margin-bottom: 15px;
+}
+.review h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.author-update{
+    background: rgb(234, 234, 234);
+    position: absolute;
+    right: 30px;
+    bottom: 0;
+    font-style: italic;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: right;
+    padding-right: 10px;
+    padding: 10px 15px;
+    border-radius: 4px 4px 0 0;
+}
+.author-update i{
+    font-weight: normal;
+}
+.update{
+    font-weight: normal;
+}
+.block-center{
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+.owl-dots{
+    text-align: center;
+    padding-top: 20px;
+}
+.owl-dot {
+    display: inline-block;
+    background-color: #fff;
+    height: 15px;
+    width: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 3px;
+    -webkit-transition: background .3s;
+    -ms-transition: background .3s;
+    transition: background .3s;
+}
+.owl-dot.active{
+    background: #38a855;
+}
+.owl-carousel.owl-drag .owl-item{
+    height: 100%;
+}
+.navbar-default .logo{
+    display: none;
+}
+.navbar-default.navbar-fixed-top.navbar-scroll .logo{
+    display: block;
+}
+.logo-bnr{
+    display: block;
+    display: inline-block;
+    max-width: 305px;
+}
+.logo-bnr img{
+    display: block;
+    max-width: 100%;
+}
+.navbar-scroll.navbar-default .nav li a{
+    transition: all .3s;
+}
