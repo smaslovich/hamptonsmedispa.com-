@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    padding-bottom: 100px;
+    background-color: transparent !important;
+}
+
+.container>.navbar-collapse {
+    margin-right: 50px !important;
+}
+
+.m-l-sm {
+    margin-right: 20px;
+}
+
+nav a {
+    color: black !important;
+}
+
+.container .gray-btn {
+    background: 0 0;
+    border: 2px solid white !important;
+    color: #637672;
+}
+
+h2 {
+    margin: 0 !important;
+}
+
+.container {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+}
+
+main > header {
+    background-image: url("../images/with_family.png");
+    background-size: cover;
+    height: 280px;
+    position: relative;
+    margin-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+main > header > section {
+    position: absolute !important;
+    top: 50%;
+}
+
+main > header > section > h2 {
+    color: white;
+}
+
+.black-square {
+    height: 100%;
+}
+
+body > main {
+    margin-top: 150px !important;
+    text-align: center;
+}
+
+.navbar-header {
+    padding-left: 1%;
+}
+
+.portfolio__name {
+    font-size: 21px;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.portfolio__position {
+    color: #a2a5a4;
+    text-transform: uppercase;
+}
+
+.portfolio {
+    border-right: #f5f5f5 2px solid;
+    border-bottom: #f5f5f5 6px solid;
+    border-top: #81d742 solid 5px;
+    padding-bottom: 30px;
+}
+
+.portfolio > p {
+    text-align: center;
+}
+
+.portfolio > p[class="portfolio__text"] {
+    text-align: justify;
+}
+
+.portfolio__photo{
+    height: 200px;
+    margin-top: -100px;
+}
+
+.portfolio__text {
+    color: rgb(102, 102, 102);
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 26px;
+}
+
+.portfolio__get-started{
+    margin-bottom: 30px !important;
+}
+
+.portfolio__get-started:hover {
+    color: white;
+    background-color: #349c4f !important;
+}
+
+.display-logo {
+    display: block !important;
+    margin-left: 15px;
+}
+
+.display-menu-bar {
+    background-color: #ccc !important;
+    opacity: 0.9;
+}
+
+a:hover {
+    color: #38a855 !important;
+}
+
+.central-container {
+    padding-bottom: 30px;
+    width: 60%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    margin: 150px auto 80px auto;
+    left: 0;
+}
+
+.navbar-wrapper ul {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: -50%;
+}
+
+.navbar-wrapper-ul-left {
+    left: -20% !important;
+}
